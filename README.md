@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```python
 ali = {
@@ -26,7 +26,7 @@ ali = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <!-- BADGES — shields.io se bante hain, har badge ek URL hai -->
 
@@ -61,16 +61,16 @@ ali = {
 
 ---
 
-## 🏆 Certifications & Achievements
+##  Certifications & Achievements
 
-| 🏅 Award | 🏢 Organization | 📅 Date |
+|  Award |  Organization |  Date |
 |---|---|---|
-| 🥇 **Best Award** – AI & ML Internship | DevelopersHub Corporation | Dec 2025 – Feb 2026 |
-| 🏆 **Top Performer** – GenAI App Developer Certificate | NCEAC-HEC · ULEF USA | Jan – Feb 2026 |
+|  **Best Award** – AI & ML Internship | DevelopersHub Corporation | Dec 2025 – Feb 2026 |
+|  **Top Performer** – GenAI App Developer Certificate | NCEAC-HEC · ULEF USA | Jan – Feb 2026 |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <!-- GITHUB STATS CARD — github-readme-stats API se aati hai, username change karo -->
 
@@ -90,14 +90,14 @@ ali = {
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <!-- ACTIVITY GRAPH — contributions ka animated graph -->
 [![Ali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alishoaibrana&theme=tokyo-night&hide_border=true)](https://github.com/alishoaibrana)
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
