@@ -19,8 +19,8 @@ ali = {
     "focus"      : ["Machine Learning", "Computer Vision", "Generative AI"],
     "certified"  : ["GenAI App Developer – HEC/NCEAC (Top Performer)",
                     "AI & ML Intern – DevelopersHub Corp (Best Award)"],
-    "currently"  : "Building cool AI stuff 🚀",
-    "fun_fact"   : "I let my models do the thinking 🤖"
+    "currently"  : "Building cool AI stuff ",
+    "fun_fact"   : "I let my models do the thinking "
 }
 ```
 
