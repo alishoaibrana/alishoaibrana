@@ -4,7 +4,7 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Muhammad%20Ali%20Haider%20Rana&fontSize=40&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20GenAI&descAlignY=58&descSize=16&descColor=8b949e)](https://github.com/alishoaibrana)
 
 <!-- TYPING ANIMATION — ek line jo khud likhti aur mitati rehti hai -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+the+Making+%F0%9F%A4%96;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;GenAI+Application+Developer+%F0%9F%9A%80;Top+Performer+%7C+HEC+GenAI+Cohort+2+%F0%9F%8F%86)](https://github.com/alishoaibrana)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+the+Making;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;GenAI+Application+Developer+%F0%9F%9A%80;Top+Performer+%7C+HEC+GenAI+Cohort+2+%F0%9F%8F%86)](https://github.com/alishoaibrana)
 
 </div>
 
